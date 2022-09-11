@@ -1,7 +1,30 @@
+/* div{
+  background-color: #F66B0E;
+} */
+/*
 body{
-  background-color: #8FE3CF;
-}
+  background-color: #205375;
+  margin: 0px;
+} */
 
 h1{
-  color: #5800FF;
+  color: #205375;
+  margin-top: 0px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
 }
