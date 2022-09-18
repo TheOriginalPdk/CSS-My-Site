@@ -1,17 +1,33 @@
 /* div{
   background-color: #F66B0E;
 } */
-/*
+
 body{
   background-color: #205375;
   margin: 0px;
-} */
-
-h1{
-  color: #205375;
-  margin-top: 0px;
+  text-align: center;
 }
 
+
+h1{
+    width: 10%
+    margin: 0 auto 0 auto;
+
+}
+
+.pro{
+}
+
+.top_cloud{
+  position: relative;
+  left:220px;
+  top: 30px;
+}
+.bottom_cloud{
+  position: absolute;
+  left:680px;
+
+}
 .top-container{
   background-color: #E4F9F5;
 }
