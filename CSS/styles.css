@@ -45,11 +45,22 @@ a {
 
 .datascience-img{
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .webdev-img{
   width: 25%;
+  float: right;
+  margin-left: 30px;
 }
+
+/* .code-datascience-description{
+  clear: left;
+}
+.code-webdev-description{
+  clear: right;
+} */
 
 .top_cloud {
   position: relative;
